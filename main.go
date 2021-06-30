@@ -8,6 +8,8 @@ import (
 	"os"
 )
 
+// wesh commit
+
 func main() {
 
 	project := flag.String("project", "", "GCP project ID (Required)")
